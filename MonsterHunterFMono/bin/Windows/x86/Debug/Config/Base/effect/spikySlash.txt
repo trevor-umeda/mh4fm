@@ -1,9 +1,0 @@
-﻿name= spikySplash
-sprite=spiky_slash1
-XImageStart=0
-YImageStart=0
-Width=500
-Height=500
-FrameCount= 8
-Columns= 4
-FrameLength= 0.02
