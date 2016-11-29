@@ -1,0 +1,32 @@
+name= battack
+sprite=5b
+XImageStart= 0
+YImageStart= 0
+Width= 547
+Height= 500
+FrameCount= 8
+Columns= 2
+FrameLength= 0.016
+FrameLengthInfo=2,2,5,1,7,2,3,2
+CharacterState= STANDING
+HitType=IMPACT
+IsAttack= true
+Hitbox=[
+4;121;243;200;108]
+Hurtbox=[ 0;267;233;155;452
+1;267;233;155;452
+2;267;233;155;452
+3;267;233;155;452
+4;267;233;155;452
+5;267;233;155;452
+6;267;233;155;452 
+7;267;233;155;452 ]
+Hitstun= 10
+Blockstun= 10 
+Hitzone= MID
+Damage= 100
+IsHardKnockDown= false
+AirUntechTime=5
+AirXVelocity= 200
+AirYVelocity= -400
+Input= B

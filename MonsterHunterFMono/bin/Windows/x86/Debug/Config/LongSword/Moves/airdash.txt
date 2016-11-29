@@ -1,0 +1,14 @@
+name=airdash
+sprite=dash_1
+XImageStart=0
+YImageStart=0
+Width=725
+Height=500
+FrameCount=2
+Columns=2
+FrameLength=0.1
+CharacterState=AIRDASH
+LoopCount=3
+Hurtbox=[ 0;367;241;331;278
+1;367;241;331;278 ]
+NextAnimation=jumpdown

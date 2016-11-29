@@ -1,0 +1,22 @@
+name=crouchhit
+sprite=2_HIT
+XImageStart=0
+YImageStart=0
+Width=588
+Height=500
+FrameCount=9
+Columns=3
+FrameLengthInfo=0,0,1,1,1,1,1,1,1
+StartFrame=3
+FrameLength=0.055
+CharacterState=HIT
+Hurtbox=[ 0;280;233;155;452
+1;280;233;155;452
+2;280;233;155;452
+3;308;278;225;392
+4;318;287;238;365
+5;312;283;238;396
+6;298;263;220;426
+7;280;243;155;452
+8;280;233;155;452 ]
+NextAnimation=crouchingidle

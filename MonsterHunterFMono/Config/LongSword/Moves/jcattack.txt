@@ -1,0 +1,34 @@
+name= jcattack
+sprite=JC
+XImageStart= 0
+YImageStart= 0
+Width= 819
+Height= 526
+FrameCount=10
+Columns= 4
+FrameLength= 0.022
+FrameLengthInfo=3,1,1,1,2,6,2,6,7,7
+CharacterState= AIRBORNE
+NextAnimation=jumpdown
+HitType=IMPACT
+IsAttack= true
+Hitbox=[
+4;205;237;409;194
+5;205;237;409;194]
+Hurtbox=[ 0;267;233;155;452
+1;267;233;155;452
+2;267;233;155;452
+3;267;233;155;452
+4;267;233;155;452
+5;267;233;155;452
+6;267;233;155;452 
+7;267;233;155;452 ]
+Hitstun= 10
+Blockstun= 10 
+Hitzone= HIGH
+Damage= 100
+IsHardKnockDown= false
+AirUntechTime=5
+AirXVelocity= 500
+AirYVelocity= -500
+Input= C

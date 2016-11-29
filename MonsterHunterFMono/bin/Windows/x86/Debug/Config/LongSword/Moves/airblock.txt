@@ -1,0 +1,13 @@
+name=airblock
+sprite=liara_blk_high1
+XImageStart=0
+YImageStart=0 
+Width=550
+Height=550
+FrameCount=1
+Columns=1
+FrameLength=0.1
+CharacterState=HIT
+NextAnimation=standing
+Hurtbox=[ 0;278;252;197;441
+]

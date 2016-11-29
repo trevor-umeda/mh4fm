@@ -1,0 +1,26 @@
+﻿name= specialcommand
+sprite= REKKA_PT3
+XImageStart=0
+YImageStart= 0
+Width=900
+Height=684
+FrameCount=13
+Columns=3
+FrameLength=0.016
+FrameLengthInfo=3,5,5,1,1,2,3,12,5,4,4,4,3
+CharacterState=STANDING
+IsAttack=true
+XMovement=0,0,0,0,6,6,20,27,30,14,4,3,0,0
+Hitbox=[6;500;450;228;48
+7;500;450;228;48
+8;500;450;228;48
+9;500;450;228;48]
+Hitstun= 6
+Blockstun= 2 
+Hitzone= MID
+Damage= 50
+IsHardKnockDown= false
+AirUntechTime= 3
+AirXVelocity= 5
+AirYVelocity= 5
+Input=2;3;6;C

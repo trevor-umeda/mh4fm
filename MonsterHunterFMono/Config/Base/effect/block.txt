@@ -1,0 +1,9 @@
+﻿name= block
+sprite=block
+XImageStart=0
+YImageStart=0
+Width=310
+Height=265
+FrameCount= 8
+Columns= 3
+FrameLength= 0.01

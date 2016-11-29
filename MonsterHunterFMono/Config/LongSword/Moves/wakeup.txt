@@ -1,0 +1,11 @@
+name=wakeup
+sprite= HIT_FALL_RECOVER
+XImageStart=0
+YImageStart= 0
+Width=625
+Height=625
+FrameCount=7
+Columns=2
+FrameLength=0.075
+CharacterState=KNOCKDOWN
+NextAnimation=standing

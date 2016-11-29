@@ -1,0 +1,19 @@
+name=jumpdown
+sprite=HH_JUMP_PT2
+XImageStart=0
+YImageStart=0 
+Width=550
+Height=550
+FrameCount=9
+Columns=3
+FrameLength=0.1
+CharacterState=AIRBORNE
+Hurtbox=[ 0;161;233;200;452
+1;161;233;200;452
+2;161;233;200;452
+3;161;233;200;452
+4;161;233;200;452
+5;161;233;200;452
+6;161;233;200;452
+7;161;233;200;452
+8;161;233;200;452 ]

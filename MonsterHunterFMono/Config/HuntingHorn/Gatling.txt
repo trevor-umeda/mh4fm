@@ -1,0 +1,11 @@
+﻿           | supera   | projectileA | projectileB | projectileC |slide  | 2aattack | 2battack| 2cattack  |aattack | battack  | cattack| jaattack | jbattack | jcattack       
+slide      |          |             |             |             |       |          |         |           |       |		   |		|		   |		  |
+2aattack   |          |             |             |             |  x    |  x       |  x      |  x        |  x    |      x  	|    x  |	       |		  |
+2battack   |    x     |    x        |    x        |     x       |   x   |          |         |   x       |       |      x   |      x	|		   |		  |
+2cattack   | x        |    x        |     x       |     x       |   x   |          |         |           |       |    	   |      	|		   |		  |
+aattack    | x        |             |             |             |   x   |          |         |   x       |  x    |      x   |      x  |		   |		  |
+battack    | x        |    x        |    x        |    x        |  x    |          |         |   x       |       |          |      x  |		   |		  |
+cattack    | x        |             |             |             |       |          |         |           |       |          | 		|		   |		  |
+jaattack   | x        |             |             |             |       |          |         |           |       |          |         |	 x    |		x	|     x	   
+jbattack   | x        |             |             |             |       |          |         |           |       |          |         |		  |			|     x	   
+jcattack   |          |             |             |             |       |          |         |           |       |          |         |		  |			|		              

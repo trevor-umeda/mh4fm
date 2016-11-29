@@ -1,0 +1,27 @@
+﻿name= cstrum
+sprite=strum_attack
+XImageStart= 0
+YImageStart= 0
+Width= 536
+Height=600
+FrameCount= 10
+Columns= 3
+FrameLength= 0.1
+IsProjectile=true
+Hitbox=[0;180;385;176;222
+1;226;351;230;288
+2;252;326;295;367
+3;260;313;300;309]
+NumOfHits = 1
+Hitstun= 6
+Blockstun= 2 
+Hitzone= MID
+Damage= 100
+TimerLength=100
+PlayOnce=true
+XSpeed=0
+YSpeed=0
+IsHardKnockDown= false
+AirUntechTime=2000
+AirXVelocity= 200
+AirYVelocity= -300

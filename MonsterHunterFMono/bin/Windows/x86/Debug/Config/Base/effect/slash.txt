@@ -1,0 +1,9 @@
+﻿name= slash
+sprite=slash_fx_1
+XImageStart=0
+YImageStart=0
+Width=582
+Height=538
+FrameCount= 9
+Columns= 3
+FrameLength= 0.02

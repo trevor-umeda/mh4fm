@@ -1,0 +1,9 @@
+﻿name= LongSword
+sprite=super_decal_liara
+XImageStart= 0
+YImageStart= 0
+Width= 506
+Height=800
+FrameCount= 1
+Columns= 1
+FrameLength= 0.1

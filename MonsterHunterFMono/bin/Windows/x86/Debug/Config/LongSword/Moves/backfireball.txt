@@ -1,0 +1,15 @@
+name= backfireball
+sprite= SUMMON1
+XImageStart=0
+YImageStart= 0
+Width=547
+Height=584
+FrameCount=15
+Columns=4
+FrameLength= 0.016
+FrameLengthInfo=2,2,2,2,3,6,2,1,1,6,2,2,3,3,4
+CharacterState=STANDING
+IsAttack=true
+ProjectileCreationFrame=8
+BackupMove=aattack
+Input=2;1;4;A

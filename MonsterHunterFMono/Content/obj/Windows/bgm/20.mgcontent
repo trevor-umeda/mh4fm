@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/src/mh4mono/MonsterHunterFMono/MonsterHunterFMono/Content/bgm/20.mp3</SourceFile>
+  <SourceTime>2015-09-07T22:53:19.7712383-07:00</SourceTime>
+  <DestFile>C:/src/mh4mono/MonsterHunterFMono/MonsterHunterFMono/Content/bin/Windows/bgm/20.xnb</DestFile>
+  <DestTime>2016-11-29T00:20:41.5013069-08:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-29T23:36:08-07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-29T23:36:08-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/src/mh4mono/MonsterHunterFMono/MonsterHunterFMono/Content/bin/Windows/bgm/20.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

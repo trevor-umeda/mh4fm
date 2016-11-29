@@ -1,0 +1,19 @@
+name= crouchingidle
+sprite= HH_2
+XImageStart= 0
+YImageStart= 0
+Width= 550
+Height= 550
+FrameCount= 8
+Columns=4
+FrameLength= 0.08
+CharacterState= CROUCHING
+NextAnimation=crouchingidle
+Hurtbox=[ 0;226;292;245;349
+1;226;292;245;349
+2;226;292;245;349
+3;226;292;245;349
+4;226;292;245;349
+5;226;292;245;349
+6;226;292;245;349
+7;226;292;245;349 ]

@@ -1,0 +1,11 @@
+name=knockdown
+sprite=KNOCKDOWN
+XImageStart=0
+YImageStart= 0
+Width=300
+Height=280
+FrameCount=8
+Columns=8
+FrameLength=0.1
+CharacterState=KNOCKDOWN
+NextAnimation=wakeup

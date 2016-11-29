@@ -1,0 +1,20 @@
+name=falldown
+sprite= HH_HITFALL1
+XImageStart=0
+YImageStart= 0
+Width=550
+Height=550
+FrameCount=9
+Columns=3
+FrameLength=0.1
+Hurtbox=[ 0;281;316;155;452
+1;281;316;155;452
+2;293;311;224;369
+3;292;321;249;313
+4;280;310;267;265
+5;263;292;284;232
+6;254;276;263;224 
+7;250;270;265;248
+8;283;248;168;339 ]
+CharacterState=AIRBORNEHIT
+NextAnimation=falling

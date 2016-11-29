@@ -1,0 +1,9 @@
+﻿name= dashDust
+sprite=dash_dust
+XImageStart=0
+YImageStart=0
+Width=468
+Height=262
+FrameCount= 11
+Columns= 4
+FrameLength= 0.025

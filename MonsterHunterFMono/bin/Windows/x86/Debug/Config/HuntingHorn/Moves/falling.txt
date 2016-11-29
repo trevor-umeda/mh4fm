@@ -1,0 +1,13 @@
+name=falling
+sprite=HH_HITFALL2
+XImageStart=0
+YImageStart=0 
+Width=550
+Height=550
+FrameCount=3
+Columns=3
+FrameLength=0.1
+Hurtbox=[ 0;307;312;155;452
+1;307;312;155;452
+2;307;312;155;452 ]
+CharacterState=AIRBORNEHIT

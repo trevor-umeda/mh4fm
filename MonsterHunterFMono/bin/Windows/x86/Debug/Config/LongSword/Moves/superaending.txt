@@ -1,0 +1,24 @@
+﻿name= superaending
+sprite= LIARA_SPECIAL_ENDING
+XImageStart=0
+YImageStart= 0
+Width=900
+Height=650
+FrameCount=8
+Columns=4
+FrameLength=0.1
+CharacterState=STANDING
+FrameLengthInfo=1,1,1,1,3,1,1,1
+IsAttack=true
+Hitbox=[
+5;0;200;1300;288
+]
+Hitstun= 6
+Blockstun= 10 
+Hitzone= MID
+Damage= 300
+IsHardKnockDown= false
+AirUntechTime=8000
+AirXVelocity= 3
+AirYVelocity= -300
+ForceAirborne=true

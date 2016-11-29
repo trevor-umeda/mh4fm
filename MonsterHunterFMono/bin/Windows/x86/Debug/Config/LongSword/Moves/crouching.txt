@@ -1,0 +1,20 @@
+name= crouching
+sprite= CROUCH
+XImageStart= 0
+YImageStart= 0
+Width= 547
+Height= 500
+FrameCount= 9
+Columns=3
+FrameLength= 0.08
+CharacterState= CROUCHING
+NextAnimation=crouchingidle
+Hurtbox=[ 0;226;292;245;349
+1;226;292;245;349
+2;226;292;245;349
+3;226;292;245;349
+4;226;292;245;349
+5;226;292;245;349
+6;226;292;245;349
+7;226;292;245;349
+8;226;292;245;349 ]

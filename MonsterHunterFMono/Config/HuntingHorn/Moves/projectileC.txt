@@ -1,0 +1,28 @@
+name= projectileC
+sprite= HH_PROJECTILE
+XImageStart=0
+YImageStart= 0
+Width=700
+Height=550
+FrameCount=13
+Columns=3
+FrameLength=0.020
+FrameLengthInfo=1,2,2,2,2,2,2,2,3,3,2,2,2
+CharacterState=STANDING
+IsAttack=true
+Hurtbox=[ 0;440;404;155;452
+1;440;404;155;452
+2;440;404;155;452
+3;440;404;155;452
+4;440;404;155;452
+5;440;404;155;452
+6;440;404;155;452 
+7;440;404;155;452
+8;440;404;155;452
+9;440;404;155;452
+10;440;404;155;452
+11;440;404;155;452
+12;440;404;155;452 ]
+ProjectileCreationFrame=8
+BackupMove=cattack
+Input=2;3;6;C

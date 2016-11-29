@@ -1,0 +1,12 @@
+name=airdashstart
+sprite=HH_AIRDASH
+XImageStart=0
+YImageStart=0
+Width=550
+Height=550
+FrameCount=1
+Columns=1
+FrameLength=0.1
+CharacterState=AIRDASH
+IsAttack=true
+NextAnimation=airdash

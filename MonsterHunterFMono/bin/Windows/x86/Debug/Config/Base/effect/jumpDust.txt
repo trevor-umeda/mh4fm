@@ -1,0 +1,9 @@
+﻿name= jumpDust
+sprite=jump_dust
+XImageStart=0
+YImageStart=0
+Width=163
+Height=214
+FrameCount= 14
+Columns= 14
+FrameLength= 0.025

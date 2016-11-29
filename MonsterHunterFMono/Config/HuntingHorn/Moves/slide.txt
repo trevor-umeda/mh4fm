@@ -1,0 +1,27 @@
+name= slide
+sprite= HH_SLIDE
+XImageStart=0
+YImageStart= 0
+Width=550
+Height=550
+FrameCount=12
+Columns=3
+FrameLength= 0.016
+FrameLengthInfo=2,2,3,5,2,2,4,15,4,4,4,4
+CharacterState=STANDING
+HitType=HORN_IMPACT
+IsAttack=true
+Hitbox=[
+6;230;396;179;299
+7;238;369;218;319]
+Hitstun= 6
+Blockstun= 2 
+Hitzone= MID
+Damage= 120
+IsHardKnockDown= false
+AirUntechTime=8000
+AirXVelocity= -900
+AirYVelocity= -500
+ForceAirborne=true
+BackupMove=battack
+Input=2;1;4;B

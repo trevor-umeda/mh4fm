@@ -1,0 +1,11 @@
+name=KO
+sprite= HH_FALL3
+XImageStart=0
+YImageStart=0 
+Width=700
+Height=550
+FrameCount=3
+Columns=3
+FrameLength=.08
+CharacterState=KNOCKDOWN
+NextAnimation=downed

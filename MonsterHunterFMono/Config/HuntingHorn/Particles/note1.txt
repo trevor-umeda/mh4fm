@@ -1,0 +1,27 @@
+﻿name= note1
+sprite=music_trap1
+XImageStart= 0
+YImageStart= 0
+Width= 300
+Height=250
+FrameCount= 5
+Columns= 5
+FrameLength= 0.1
+IsProjectile=true
+Hitbox=[0;254;219;128;128
+1;254;219;128;128
+2;254;219;128;128
+3;254;219;128;128
+4;254;219;128;128]
+NumOfHits = 1
+Hitstun= 6
+Blockstun= 2 
+Hitzone= MID
+Damage= 50
+TimerLength=300
+XSpeed=0
+YSpeed=0
+IsHardKnockDown= false
+AirUntechTime= 3
+AirXVelocity= 5
+AirYVelocity= 5

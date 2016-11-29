@@ -1,0 +1,33 @@
+name= jbattack
+sprite=JB
+XImageStart= 0
+YImageStart= 0
+Width= 547
+Height= 500
+FrameCount= 11
+Columns= 6
+FrameLength= 0.016
+FrameLengthInfo=1,1,1,1,2,4,6,3,3,3,3
+CharacterState= AIRBORNE
+HitType=IMPACT
+IsAttack= true
+NextAnimation=jumpdown
+Hitbox=[
+6;121;347;200;108]
+Hurtbox=[ 0;110;347;200;108
+1;267;233;155;452
+2;267;233;155;452
+3;267;233;155;452
+4;267;233;155;452
+5;267;233;155;452
+6;267;233;155;452 
+7;267;233;155;452 ]
+Hitstun= 10
+Blockstun= 10 
+Hitzone= HIGH
+Damage= 100
+IsHardKnockDown= false
+AirUntechTime=10
+AirXVelocity= 300
+AirYVelocity= -300
+Input= B

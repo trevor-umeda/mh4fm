@@ -1,0 +1,9 @@
+﻿name= impact
+sprite=punch2_fx
+XImageStart=0
+YImageStart=0
+Width=248
+Height=220
+FrameCount= 6
+Columns= 2
+FrameLength= 0.05

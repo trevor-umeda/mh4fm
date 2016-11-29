@@ -1,0 +1,12 @@
+name=backstep
+sprite=HH_backhop
+XImageStart=0
+YImageStart= 0
+Width=550
+Height=550
+FrameCount=9
+Columns=3
+FrameLength=0.01
+FrameLengthInfo=2,2,2,2,7,2,2,2,2
+CharacterState=BACKSTEP
+IsAttack=true

@@ -1,0 +1,31 @@
+﻿name= aattack
+sprite=HH_5A
+XImageStart= 0
+YImageStart= 0
+Width= 550
+Height= 550
+FrameCount= 7
+Columns= 4
+FrameLength= 0.016
+FrameLengthInfo=3,3,3,2,2,2,3
+CharacterState= STANDING
+HitType=IMPACT
+IsAttack= true
+Hitbox=[2;85;158;88;82
+3;85;158;88;82]
+Hurtbox=[ 0;189;233;155;452
+1;189;233;155;452
+2;189;233;155;452
+3;189;233;155;452
+4;189;233;155;452
+5;189;233;155;452
+6;189;233;155;452 ]
+Hitstun= 3
+Blockstun= 2 
+Hitzone= MID
+Damage= 20
+IsHardKnockDown= false
+AirUntechTime= 3
+AirXVelocity= 5
+AirYVelocity= 5
+Input= A

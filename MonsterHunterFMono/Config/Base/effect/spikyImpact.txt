@@ -1,0 +1,9 @@
+﻿name= spikyStrike
+sprite=spiky_strike
+XImageStart=0
+YImageStart=0
+Width=684
+Height=494
+FrameCount= 6
+Columns= 2
+FrameLength= 0.02

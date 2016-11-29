@@ -1,0 +1,9 @@
+﻿name= impactSlash
+sprite=impact_slash2
+XImageStart=0
+YImageStart=0
+Width=440
+Height=500
+FrameCount= 7
+Columns= 4
+FrameLength= 0.02

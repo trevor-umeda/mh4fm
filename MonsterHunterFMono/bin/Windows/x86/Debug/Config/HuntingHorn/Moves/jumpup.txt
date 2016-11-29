@@ -1,0 +1,12 @@
+name=jumpup
+sprite=HH_JUMP_PT1
+XImageStart=0
+YImageStart=0
+Width=550
+Height=550
+FrameCount=2
+Columns=2
+FrameLength=0.1
+CharacterState=AIRBORNE
+Hurtbox=[ 0;134;250;195;477
+1;134;250;195;477]

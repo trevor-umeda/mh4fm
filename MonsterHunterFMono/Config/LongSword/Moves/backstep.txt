@@ -1,0 +1,12 @@
+name=backstep
+sprite=BACKDASH
+XImageStart=0
+YImageStart= 0
+Width=547
+Height=500
+FrameCount=9
+Columns=3
+FrameLength=0.01
+FrameLengthInfo=2,2,2,2,10,2,2,2,2
+CharacterState=BACKSTEP
+IsAttack=true
